@@ -3,9 +3,9 @@ import json
 from pprint import pprint
 import time
 
-access_token = '22b4acc6316581386712145ca18319cc94fec230b6826574be758f2cedb25a7d13cbc9553aab85644b2ef'
+access_token = ''
 vk_config = {'token': access_token,
-             'client_id': '7219880',
+             'client_id': '',
              'version': '5.124',
              'domain': 'https://api.vk.com/method/'}
 
